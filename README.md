@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7C3&width=435&lines=Hello%2C+My+name+is+M+Ilham+Fauzan." alt="Typing SVG" /></a>>
+</div>
 
 <!--
 **ilhamfauzan630/ilhamfauzan630** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
