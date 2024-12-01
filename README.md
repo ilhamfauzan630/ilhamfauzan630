@@ -33,7 +33,10 @@
   <div align=center>
 
   <h2>Github Stats 👾🪼</h2>
+  
   </div>
+
+  <br>
 
   <img src="https://github.com/ilhamfauzan630/ilhamfauzan630/blob/main/assets/klee.jpg" width="25%" align=right />
 
