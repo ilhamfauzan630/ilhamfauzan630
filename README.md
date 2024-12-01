@@ -35,8 +35,8 @@
   <h2>Github Stats 👾🪼</h2>
 
   ![ilhamfauzan630's Stats](https://github-readme-stats.vercel.app/api?username=ilhamfauzan630&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-  ![ilhamfauzan630's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamfauzan630&theme=tokyonight&hide_border=true)
   ![ilhamfauzan630's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamfauzan630&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+  ![ilhamfauzan630's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamfauzan630&theme=tokyonight&hide_border=true)
     
   </div>
   
