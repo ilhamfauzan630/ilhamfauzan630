@@ -1,9 +1,12 @@
 <body>
+  
   <div align=center>
 
-  <h2> 🐢🐉🦕🦖 Welcome to My Profile! 🐢🐉🦕🦖</h2>
+  <h2> 🐢🐉🦕🦖 Welcome to My Profile! 🦖🦕🐉🐢</h2>
     
   </div>
+
+  <img src="" width="25%" align="left" />
   
   <p>I'm Muhammad Ilham Fauzan, a passionate Full-Stack Developer and lifelong learner.</p>
 
