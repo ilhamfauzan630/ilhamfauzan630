@@ -38,8 +38,6 @@
 
   <br>
 
-  <img src="https://github.com/ilhamfauzan630/ilhamfauzan630/blob/main/assets/klee.jpg" width="25%" align=right />
-
   <div align=center>
 
   ![ilhamfauzan630's Stats](https://github-readme-stats.vercel.app/api?username=ilhamfauzan630&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
