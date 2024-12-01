@@ -30,7 +30,7 @@
 
   <br>
 
-  <div align=center>
+  <div align=left>
 
   <h2>Github Stats 👾🪼</h2>
 
