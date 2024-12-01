@@ -6,25 +6,27 @@
     
   </div>
 
-   <img src="https://github.com/ilhamfauzan630/ilhamfauzan630/blob/main/assets/klee.jpg" width="25%" align="left" style="margin-right: 15px; margin-bottom: 10px;" />
-  
-  <div style="margin-left:30%;">
-    <p>I'm Muhammad Ilham Fauzan, a passionate Full-Stack Developer and lifelong learner.</p>
-
-  <ul>
-    <li>🌱 Currently exploring Flutter, JavaScript, and Kotlin Multiplatform Mobile.</li>
-    <li>💻 Skilled in Android Development, UI Design, and creating seamless Frontend-Backend integrations.</li>
-    <li>🎮 Game enthusiast with an interest in 3D adventure fantasy games and virtual tours.</li>
-    <li>📚 Actively working on exciting projects, including flutter app and personal blogs.</li>
-  </ul>
-
-  <p>Feel free to explore my repositories and collaborate on any project! <br> Let's build something amazing together. 🚀</p>
+   <table>
+      <tr>
+        <td width="25%">
+          <img src="https://github.com/ilhamfauzan630/ilhamfauzan630/blob/main/assets/klee.jpg" width="100%" />
+        </td>
+        <td>
+          <p>I'm Muhammad Ilham Fauzan, a passionate Full-Stack Developer and lifelong learner.</p>
+          <br>
+          <ul>
+            <li>🌱 Currently exploring Flutter, JavaScript, and Kotlin Multiplatform Mobile.</li>
+            <li>💻 Skilled in Android Development, UI Design, and creating seamless Frontend-Backend integrations.</li>
+            <li>🎮 Game enthusiast with an interest in 3D adventure fantasy games and virtual tours.</li>
+            <li>📚 Actively working on exciting projects, including flutter app and personal blogs.</li>
+          </ul>
+          <br>
+          <p>Feel free to explore my repositories and collaborate on any project! <br> Let's build something amazing together. 🚀</p>
+        </td>
+      </tr>
+    </table>
     
   </div>
-  
-  <br>
-  
-  <p>Feel free to explore my repositories and collaborate on any project! <br> Let's build something amazing together. 🚀</p>
 
   <br>
   
