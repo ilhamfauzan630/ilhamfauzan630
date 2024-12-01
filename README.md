@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2EFFDA&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcom+to+My+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=2EFFDA&width=435&lines=Hi+%F0%9F%91%8B%2C+Welcome+to+My+Profile!+%F0%9F%9A%80" alt="Typing SVG" />
 
 
   [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/fauzanilham/)
