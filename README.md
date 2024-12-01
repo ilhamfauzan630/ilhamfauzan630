@@ -33,24 +33,25 @@
   <div align=center>
 
   <h2>Github Stats 👾🪼</h2>
+  </div>
+
+  <img src="https://github.com/ilhamfauzan630/ilhamfauzan630/blob/main/assets/klee.jpg" width="25%" align=right />
+
+  <div align=center>
 
   ![ilhamfauzan630's Stats](https://github-readme-stats.vercel.app/api?username=ilhamfauzan630&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-  <br>
-  
-  ![ilhamfauzan630's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilhamfauzan630&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
-  <br>
+  <br> 
   
   ![ilhamfauzan630's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ilhamfauzan630&theme=tokyonight&hide_border=true)
-
-  <br>
   
   </div>
   
-    
+
   
   
+  
+ <br><hr>
   <div align=center>
 
 
